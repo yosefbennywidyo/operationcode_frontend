@@ -45,7 +45,7 @@ class PartnerSchools extends Component {
             alt="Coder Camps Logo"
             schoolName="Coder Camps"
             link="https://www.codercamps.com/"
-            schoolAddress="Online, Pheonix, Seattle"
+            schoolAddress="Online, Phoenix, Seattle"
             logo="https://raw.githubusercontent.com/OperationCode/operationcode_frontend/master/src/images/codeSchoolLogos/coder_camps.jpg"
             GI="No"
             fullTime="Full-Time"
